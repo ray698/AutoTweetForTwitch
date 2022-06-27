@@ -48,16 +48,16 @@ Bearer Token를 발급 받을 수 있습니다. (본인 계정의 키)<br>
 키를 모르겠는 경우 ReGenerate를 눌러 새로 생성해줍시다!<br>
 <br>
 ## 6-1. API Key를 data.txt에 넣어줍니다.
-REPLACE_THIS_WITH_YOUR_CONSUMER_KEY
->> Consumer Keys - API Key<br>
-REPLACE_THIS_WITH_YOUR_CONSUMER_SECRET
->> Consumer Keys - Secret<br>
-REPLACE_THIS_WITH_YOUR_ACCESS_TOKEN
->> Authentication Tokens - Access Token<br>
-REPLACE_THIS_WITH_YOUR_ACCESS_TOKEN_SECRET
->>Authentication Tokens - Secret<br>
-REPLACE_THIS_WITH_YOUR_BEARER_TOKEN
->>Authentication Tokens - Bearer<br>
+REPLACE_THIS_WITH_YOUR_CONSUMER_KEY<br>
+Consumer Keys - API Key<br>
+REPLACE_THIS_WITH_YOUR_CONSUMER_SECRET<br>
+Consumer Keys - Secret<br>
+REPLACE_THIS_WITH_YOUR_ACCESS_TOKEN<br>
+Authentication Tokens - Access Token<br>
+REPLACE_THIS_WITH_YOUR_ACCESS_TOKEN_SECRET<br>
+Authentication Tokens - Secret<br>
+REPLACE_THIS_WITH_YOUR_BEARER_TOKEN<br>
+Authentication Tokens - Bearer<br>
 <br>
 ## 7. data.txt를 수정합니다
 본인 방송 주소<br>
