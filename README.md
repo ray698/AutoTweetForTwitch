@@ -61,7 +61,7 @@ Authentication Tokens - Bearer<br>
 <br>
 ## 7. data.txt를 수정합니다
 본인 방송 주소<br>
->> https://m.twitch.tv/본인아이디<br>
+https://m.twitch.tv/본인아이디<br>
 <br>
 트윗 내용 또한 커스텀할 수 있습니다.<br>
 <br>
