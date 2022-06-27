@@ -27,6 +27,8 @@ C:\Users\사용자\AppData\Local\Programs\Python\Python310\Scripts<br>
 https://developer.twitter.com/en/apps 에 접속합니다.<br>
 Create an APP > APPLY 를 클릭하면 첫 접속자는 개발자 권한 획득 과정이 시작됩니다.<br>
 기본 질문 사항 - 전화번호 등록 / 이름 / 국가 / 직업 / 기관이 파생 컨텐츠 정보를 얻을 수 있게 할까? <br>
+이때 직업에서 학생을 선택하면 빠르게 진행할 수 있다고는 합니다.<br>
+개인적인 용도를 선탁하면 200자 이상 사용 이유 작성(개발자 승인은 빠르게 된다고 함)<br>
 <br>
 ## 4. API 발급을 위해 APP 을 제작합시다.
 https://developer.twitter.com/en/portal/register/welcome<br>
