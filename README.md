@@ -3,6 +3,7 @@
 
 ## 0. AutoTweetForTwitch.py 와 data.txt 를 다운로드
 둘이 같은 폴더에 넣어놓으면 됩니다.
+이때 data.txt는 UTF-8로 되어있어야 해요.
 
 ## 1. 파이썬 3.10.x 버전 설치
 https://www.python.org/
