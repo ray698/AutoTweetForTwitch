@@ -1,6 +1,9 @@
 ##  AutoTweetForTwitch
 실행시키면 방송을 켰다는 트윗을 자동으로 남겨주는 프로그램
 
+## 0. AutoTweetForTwitch.py 와 data.txt 를 다운로드
+둘이 같은 폴더에 넣어놓으면 됩니다.
+
 ## 1. 파이썬 3.10.x 버전 설치
 https://www.python.org/
 설치시 Add Python 3.10 to Path 체크
