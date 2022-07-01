@@ -51,15 +51,15 @@ Bearer Token를 발급 받을 수 있습니다. (본인 계정의 키)<br>
 <br>
 ## 6-1. API Key를 data.txt에 넣어줍니다.
 REPLACE_THIS_WITH_YOUR_CONSUMER_KEY<br>
-Consumer Keys - API Key<br>
+-Consumer Keys - API Key<br>
 REPLACE_THIS_WITH_YOUR_CONSUMER_SECRET<br>
-Consumer Keys - Secret<br>
+-Consumer Keys - Secret<br>
 REPLACE_THIS_WITH_YOUR_ACCESS_TOKEN<br>
-Authentication Tokens - Access Token<br>
+-Authentication Tokens - Access Token<br>
 REPLACE_THIS_WITH_YOUR_ACCESS_TOKEN_SECRET<br>
-Authentication Tokens - Secret<br>
+-Authentication Tokens - Secret<br>
 REPLACE_THIS_WITH_YOUR_BEARER_TOKEN<br>
-Authentication Tokens - Bearer<br>
+-Authentication Tokens - Bearer<br>
 모든 키는 위를 그대로 진행했으면 관리 창에서 확인할 수 있어요<br>
 <br>
 ## 7. data.txt를 수정합니다
