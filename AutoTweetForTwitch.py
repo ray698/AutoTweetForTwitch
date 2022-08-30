@@ -37,7 +37,7 @@ Link = soup.select_one('meta[property="og:url"]')["content"]
 NickName = NickName.replace(" - Twitch", "").strip()
 
 # 트윗을 올리기 전에 문장 완성하기
-tmp = NickName + " " + data[6] + "\n" + data[7] + " " + "\"" + VideoTitle + "\"" + data[8] + "\n" + Link + "\n" + data[9]
+tmp = NickName + " " + data[6] + "\n" + data[7] + " " + "\"" + VideoTitle + "\"" + data[8] + "\n" + Link + "\n" + data[9] + "\n" + data[10] + "\n" + data[11]
 tweet = tmp
 
 #트윗 올리기
